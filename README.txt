@@ -42,9 +42,4 @@ Create two wallets, remember each Wallet ID and PIN, then log in and test:
 - View transaction history
 - Change PIN
 
-IMPORTANT
----------
-This is an educational console simulation. It does not connect to UPI or banks.
-PINs are stored as plain text in the local data file for demonstration only.
-Do not use this design for real money or real financial credentials.
-Regular wallets pay a 0.5% transfer fee; Premium wallets pay no transfer fee.
+
